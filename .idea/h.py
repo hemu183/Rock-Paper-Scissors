@@ -1,0 +1,5 @@
+# # a=input("first name")
+# # b=input("Last name")
+# # print("Hello",a+b)
+# # print("Wlcome to python")
+# print("\'''hello world\'''")
